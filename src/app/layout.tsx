@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Low Earth Orbiter",
-  description: "A Scroll-Driven Journey Through Earth’s Orbits—Discover the Difference Between LEO and GEO Satellites.",
+  description: "A Scroll-Driven Journey Through Earth’s Orbits.",
 };
 
 export default function RootLayout({
