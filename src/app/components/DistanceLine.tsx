@@ -25,11 +25,11 @@ export default function DistanceLine({ scrollYProgress }: DistanceLineProps) {
     <div className="relative w-full h-full flex justify-center" >
       <motion.div
         style={{ height: lineHeight, y: slideUp }}
-        className="absolute top-[10vh] w-[2px] bg-white z-10 mt-24 pointer-events-none" 
+        className="absolute top-[10vh] w-[2px] bg-white z-10 mt-24 pointer-events-none"
       >
         <motion.div
-                  style={{ y: lineHeight }}
-                  
+          style={{ y: lineHeight }}
+
           className="absolute left-full ml-2 flex items-center space-x-2"
         >
           <div className="w-6 h-[2px] bg-white" />

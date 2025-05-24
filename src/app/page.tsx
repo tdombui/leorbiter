@@ -1,7 +1,7 @@
 'use client';
 import React from 'react';
 import { useRef } from 'react';
-import { useScroll, useTransform, motion, useMotionTemplate, MotionValue } from 'framer-motion';
+import { useScroll, useTransform, motion, useMotionTemplate } from 'framer-motion';
 import { ChevronDown } from 'lucide-react';
 import DistanceLine from './components/DistanceLine';
 import LeoSatellite from './components/LeoSatellite';
