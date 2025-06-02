@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Low Earth Orbiter",
+  title: "Le'orbiter",
   description: "A Scroll-Driven Journey Through Earth’s Orbits.",
 };
 
